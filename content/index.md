@@ -9,5 +9,5 @@ title: 👋首页
 
 联系我：<br>
 🐧QQ 1850691771<br>
-🧣微博@整数实数有理数_<br>
+🧣微博[@整数实数有理数_](https://weibo.com/3707193433)<br>
 📪邮箱 jean.rq.zhu@outlook.com 
