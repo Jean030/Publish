@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: 👋首页
 ---
+你好，这里是Jean/小简，喜欢用声音表达故事。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这是我的个人主页，用来记录和[[📌 后期总汇|存档]]我做过的后期，也会尝试记录一些杂谈或上传一些笔记。你可以通过左侧搜索框和点击特定标签进行浏览。
+
+如果你在浏览中发现了什么问题，或只是想找我聊天，欢迎通过文末的方式联系我。
+
+联系我：<br>
+🐧QQ 1850691771<br>
+🧣微博@整数实数有理数_<br>
+📪邮箱 jean.rq.zhu@outlook.com 
