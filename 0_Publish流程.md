@@ -1,6 +1,7 @@
 本地preciew:
 npx quartz build --serve
 http://localhost:8080
+crl + C 退出
 
 vs
 1. vs code里
